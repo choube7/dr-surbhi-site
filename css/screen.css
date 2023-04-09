@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+}
+.abc{
+    position:relative;
+    width:50%;
+    height: auto;
+}
+
+.description{
+    position:absolute;
+    bottom:50px;
+    left:0;
+    background-color: rgba(0, 0, 0, .65);
+  padding: 15px 25px;
+  color: aliceblue;
+}
+.quote{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    border: 3px orange;
+    margin-bottom: 20px;
+   
+    width: 180px;
+    height: 100px;
+    box-sizing: content-box;
+}
+.surbhiimg{
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    border-top: 4px solid black;
+    
+    margin-right: auto;
+    margin-left: auto; 
+}
